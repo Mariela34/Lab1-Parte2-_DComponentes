@@ -1,0 +1,10 @@
+E:\Desarrollo de Software\Diseño de componentes\Proyectos\Lab1-Parte2\ControlWindows\ControlWindows\bin\Debug\ControlWindows.exe.config
+E:\Desarrollo de Software\Diseño de componentes\Proyectos\Lab1-Parte2\ControlWindows\ControlWindows\bin\Debug\ControlWindows.exe
+E:\Desarrollo de Software\Diseño de componentes\Proyectos\Lab1-Parte2\ControlWindows\ControlWindows\bin\Debug\ControlWindows.pdb
+E:\Desarrollo de Software\Diseño de componentes\Proyectos\Lab1-Parte2\ControlWindows\ControlWindows\obj\Debug\ControlWindows.csprojAssemblyReference.cache
+E:\Desarrollo de Software\Diseño de componentes\Proyectos\Lab1-Parte2\ControlWindows\ControlWindows\obj\Debug\ControlWindows.Form1.resources
+E:\Desarrollo de Software\Diseño de componentes\Proyectos\Lab1-Parte2\ControlWindows\ControlWindows\obj\Debug\ControlWindows.Properties.Resources.resources
+E:\Desarrollo de Software\Diseño de componentes\Proyectos\Lab1-Parte2\ControlWindows\ControlWindows\obj\Debug\ControlWindows.csproj.GenerateResource.cache
+E:\Desarrollo de Software\Diseño de componentes\Proyectos\Lab1-Parte2\ControlWindows\ControlWindows\obj\Debug\ControlWindows.csproj.CoreCompileInputs.cache
+E:\Desarrollo de Software\Diseño de componentes\Proyectos\Lab1-Parte2\ControlWindows\ControlWindows\obj\Debug\ControlWindows.exe
+E:\Desarrollo de Software\Diseño de componentes\Proyectos\Lab1-Parte2\ControlWindows\ControlWindows\obj\Debug\ControlWindows.pdb
