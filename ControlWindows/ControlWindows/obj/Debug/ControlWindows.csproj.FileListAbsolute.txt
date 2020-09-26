@@ -1,0 +1,8 @@
+E:\Desarrollo de Software\Diseño de componentes\Proyectos\Lab1-Parte2\ControlWindows\ControlWindows\bin\Debug\ControlWindows.dll
+E:\Desarrollo de Software\Diseño de componentes\Proyectos\Lab1-Parte2\ControlWindows\ControlWindows\bin\Debug\ControlWindows.pdb
+E:\Desarrollo de Software\Diseño de componentes\Proyectos\Lab1-Parte2\ControlWindows\ControlWindows\obj\Debug\ControlWindows.csprojAssemblyReference.cache
+E:\Desarrollo de Software\Diseño de componentes\Proyectos\Lab1-Parte2\ControlWindows\ControlWindows\obj\Debug\ControlWindows.UserControl1.resources
+E:\Desarrollo de Software\Diseño de componentes\Proyectos\Lab1-Parte2\ControlWindows\ControlWindows\obj\Debug\ControlWindows.csproj.GenerateResource.cache
+E:\Desarrollo de Software\Diseño de componentes\Proyectos\Lab1-Parte2\ControlWindows\ControlWindows\obj\Debug\ControlWindows.csproj.CoreCompileInputs.cache
+E:\Desarrollo de Software\Diseño de componentes\Proyectos\Lab1-Parte2\ControlWindows\ControlWindows\obj\Debug\ControlWindows.dll
+E:\Desarrollo de Software\Diseño de componentes\Proyectos\Lab1-Parte2\ControlWindows\ControlWindows\obj\Debug\ControlWindows.pdb
